@@ -1,0 +1,274 @@
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.csproj.AssemblyReference.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLBH.fLogin.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.Properties.Resources.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.csproj.GenerateResource.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.AssemblyInfoInputs.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.AssemblyInfo.cs
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\QLSV.exe
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\QLSV.dll.config
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\QLSV.deps.json
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\QLSV.runtimeconfig.json
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\QLSV.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\QLSV.pdb
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.csproj.Up2Date
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\refint\QLSV.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.pdb
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.genruntimeconfig.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\ref\QLSV.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fMain.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlyBangDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlyDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlyGiangVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlyKhoa.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlyLopDanhNghia.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlyLopTinChi.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlyMonHoc.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlySinhVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fQlyTaiKhoan.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fReportBangDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fReportBangDiem1.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fReportBangDiem2.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fSuaBangDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fSuaGiangVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fSuaKhoa.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fSuaLopDanhNghia.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fSuaLopTinChi.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fSuaMonHoc.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fSuaSinhVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fSuaTaiKhoan.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fThemBangDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fThemGiangVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fThemKhoa.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fThemLopDanhNghia.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fThemLopTinChi.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fThemMonHoc.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fThemSinhVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\Báo cáo\QLSV\QLDSV\obj\Debug\net8.0-windows\QLSV.fThemTaiKhoan.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\QLSV.exe
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\QLSV.dll.config
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\QLSV.deps.json
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\QLSV.runtimeconfig.json
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\QLSV.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\QLSV.pdb
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.csproj.AssemblyReference.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLBH.fLogin.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fMain.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlyBangDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlyDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlyGiangVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlyKhoa.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlyLopDanhNghia.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlyLopTinChi.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlyMonHoc.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlySinhVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fQlyTaiKhoan.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fReportBangDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fReportBangDiem1.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fReportBangDiem2.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fSuaBangDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fSuaGiangVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fSuaKhoa.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fSuaLopDanhNghia.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fSuaLopTinChi.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fSuaMonHoc.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fSuaSinhVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fSuaTaiKhoan.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fThemBangDiem.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fThemGiangVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fThemKhoa.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fThemLopDanhNghia.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fThemLopTinChi.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fThemMonHoc.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fThemSinhVien.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.fThemTaiKhoan.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.Properties.Resources.resources
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.csproj.GenerateResource.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.AssemblyInfoInputs.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.AssemblyInfo.cs
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.csproj.Up2Date
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\refint\QLSV.dll
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.pdb
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\QLSV.genruntimeconfig.cache
+D:\Users\ADMIN\Desktop\Team_Work\LT Windows\08\QLSV\QLSV\obj\Debug\net8.0-windows\ref\QLSV.dll

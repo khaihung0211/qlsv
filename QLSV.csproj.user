@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fQlySinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fQlyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSuaTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlyBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlyDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlyGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlyKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlyLopDanhNghia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlyLopTinChi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlyMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlySinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fQlyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fReportBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fReportBangDiem1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fReportBangDiem2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fSuaBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fSuaGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fSuaKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fSuaLopDanhNghia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fSuaLopTinChi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fSuaMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fSuaSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fSuaTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fThemBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fThemGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fThemKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fThemLopDanhNghia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fThemLopTinChi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fThemMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fThemSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSV\fThemTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="QLDSVDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+HƯỚNG DẪN SỰ DỤNG
+Bước 1: Mở project QLSV.sln. 
+Bước 2: Tìm kiếm tập tin App.config
+Bước 3: Chỉnh sửa thông tin connectionString mục Server (DESKTOP-EG64C6T) thành tên Server của SQL Server của máy tính hiện tại
+Bước 4: Cập nhật database bằng cách mở 
+Nhấp lệnh Tools \NuGet Package Manager \Package Manager Console
+Trong Package Manager Console (ở vùng đáy của cửa sổ), gõ và chạy lệnh sau: Update-Database
+
+(Nếu quá trình Update-Database xảy ra lỗi có thể tìm kiếm thư mục database trong project sẽ có tập tin script.sql và sử dụng các đoạn script bằng cách thực hiện New Query và Execute trong SQL Server)

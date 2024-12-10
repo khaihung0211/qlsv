@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLDSVDataSet" targetNamespace="http://tempuri.org/QLDSVDataSet.xsd" xmlns:mstns="http://tempuri.org/QLDSVDataSet.xsd" xmlns="http://tempuri.org/QLDSVDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=DESKTOP-EG64C6T;Initial Catalog=QLDSV;Integrated Security=True;TrustServerCertificate=True" IsAppSettingsProperty="false" Modifier="Assembly" Name="desktop-eg64c6t.QLDSV.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="BangDiemViewTableAdapter" GeneratorDataComponentClassName="BangDiemViewTableAdapter" Name="BangDiemView" UserDataComponentName="BangDiemViewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="desktop-eg64c6t.QLDSV.dbo" DbObjectName="QLDSV.dbo.BangDiemView" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaSoSV, TenSV, MaLopDN, MaMon, TenMon, DiemChuyenCan, DiemGiuaKy, DiemThiCuoiKy, TiLeDiemQuaTrinh, TiLeDiemThiCuoiKy, DiemTB FROM dbo.BangDiemView</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaSoSV" DataSetColumn="MaSoSV" />
+              <Mapping SourceColumn="TenSV" DataSetColumn="TenSV" />
+              <Mapping SourceColumn="MaLopDN" DataSetColumn="MaLopDN" />
+              <Mapping SourceColumn="MaMon" DataSetColumn="MaMon" />
+              <Mapping SourceColumn="TenMon" DataSetColumn="TenMon" />
+              <Mapping SourceColumn="DiemChuyenCan" DataSetColumn="DiemChuyenCan" />
+              <Mapping SourceColumn="DiemGiuaKy" DataSetColumn="DiemGiuaKy" />
+              <Mapping SourceColumn="DiemThiCuoiKy" DataSetColumn="DiemThiCuoiKy" />
+              <Mapping SourceColumn="TiLeDiemQuaTrinh" DataSetColumn="TiLeDiemQuaTrinh" />
+              <Mapping SourceColumn="TiLeDiemThiCuoiKy" DataSetColumn="TiLeDiemThiCuoiKy" />
+              <Mapping SourceColumn="DiemTB" DataSetColumn="DiemTB" />
+              <Mapping SourceColumn="MaLopTC" DataSetColumn="MaLopTC" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLDSVDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="QLDSVDataSet" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QLDSVDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BangDiemView" msprop:Generator_RowClassName="BangDiemViewRow" msprop:Generator_RowEvHandlerName="BangDiemViewRowChangeEventHandler" msprop:Generator_RowDeletedName="BangDiemViewRowDeleted" msprop:Generator_RowDeletingName="BangDiemViewRowDeleting" msprop:Generator_RowEvArgName="BangDiemViewRowChangeEvent" msprop:Generator_TablePropName="BangDiemView" msprop:Generator_RowChangedName="BangDiemViewRowChanged" msprop:Generator_UserTableName="BangDiemView" msprop:Generator_RowChangingName="BangDiemViewRowChanging" msprop:Generator_TableClassName="BangDiemViewDataTable" msprop:Generator_TableVarName="tableBangDiemView">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaSoSV" msprop:Generator_UserColumnName="MaSoSV" msprop:Generator_ColumnPropNameInTable="MaSoSVColumn" msprop:Generator_ColumnPropNameInRow="MaSoSV" msprop:Generator_ColumnVarNameInTable="columnMaSoSV" type="xs:long" />
+              <xs:element name="TenSV" msprop:Generator_UserColumnName="TenSV" msprop:Generator_ColumnPropNameInTable="TenSVColumn" msprop:Generator_ColumnPropNameInRow="TenSV" msprop:Generator_ColumnVarNameInTable="columnTenSV">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaLopDN" msprop:Generator_UserColumnName="MaLopDN" msprop:Generator_ColumnPropNameInTable="MaLopDNColumn" msprop:Generator_ColumnPropNameInRow="MaLopDN" msprop:Generator_ColumnVarNameInTable="columnMaLopDN">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaMon" msprop:Generator_UserColumnName="MaMon" msprop:Generator_ColumnPropNameInTable="MaMonColumn" msprop:Generator_ColumnPropNameInRow="MaMon" msprop:Generator_ColumnVarNameInTable="columnMaMon" type="xs:long" />
+              <xs:element name="TenMon" msprop:Generator_UserColumnName="TenMon" msprop:Generator_ColumnPropNameInTable="TenMonColumn" msprop:Generator_ColumnPropNameInRow="TenMon" msprop:Generator_ColumnVarNameInTable="columnTenMon">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DiemChuyenCan" msprop:Generator_UserColumnName="DiemChuyenCan" msprop:Generator_ColumnPropNameInTable="DiemChuyenCanColumn" msprop:Generator_ColumnPropNameInRow="DiemChuyenCan" msprop:Generator_ColumnVarNameInTable="columnDiemChuyenCan" type="xs:decimal" />
+              <xs:element name="DiemGiuaKy" msprop:Generator_UserColumnName="DiemGiuaKy" msprop:Generator_ColumnPropNameInTable="DiemGiuaKyColumn" msprop:Generator_ColumnPropNameInRow="DiemGiuaKy" msprop:Generator_ColumnVarNameInTable="columnDiemGiuaKy" type="xs:decimal" />
+              <xs:element name="DiemThiCuoiKy" msprop:Generator_UserColumnName="DiemThiCuoiKy" msprop:Generator_ColumnPropNameInTable="DiemThiCuoiKyColumn" msprop:Generator_ColumnPropNameInRow="DiemThiCuoiKy" msprop:Generator_ColumnVarNameInTable="columnDiemThiCuoiKy" type="xs:decimal" />
+              <xs:element name="TiLeDiemQuaTrinh" msprop:Generator_UserColumnName="TiLeDiemQuaTrinh" msprop:Generator_ColumnPropNameInTable="TiLeDiemQuaTrinhColumn" msprop:Generator_ColumnPropNameInRow="TiLeDiemQuaTrinh" msprop:Generator_ColumnVarNameInTable="columnTiLeDiemQuaTrinh" type="xs:short" />
+              <xs:element name="TiLeDiemThiCuoiKy" msprop:Generator_UserColumnName="TiLeDiemThiCuoiKy" msprop:Generator_ColumnPropNameInTable="TiLeDiemThiCuoiKyColumn" msprop:Generator_ColumnPropNameInRow="TiLeDiemThiCuoiKy" msprop:Generator_ColumnVarNameInTable="columnTiLeDiemThiCuoiKy" type="xs:short" />
+              <xs:element name="DiemTB" msprop:Generator_UserColumnName="DiemTB" msprop:Generator_ColumnPropNameInTable="DiemTBColumn" msprop:Generator_ColumnPropNameInRow="DiemTB" msprop:Generator_ColumnVarNameInTable="columnDiemTB" type="xs:decimal" />
+              <xs:element name="MaLopTC" msprop:Generator_ColumnPropNameInRow="MaLopTC" msprop:Generator_ColumnPropNameInTable="MaLopTCColumn" msprop:Generator_ColumnVarNameInTable="columnMaLopTC" msprop:Generator_UserColumnName="MaLopTC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
